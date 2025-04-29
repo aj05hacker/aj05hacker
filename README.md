@@ -9,7 +9,7 @@ Heyo, I'm **Abdul Hajees** 👋
 A final year IT student + freelance web designer from 🇮🇳 Trichy, Tamil Nadu.  
 I craft **cinematic, luxury-themed** websites with crazy smooth animations and clean designs ✨.  
   
-🚀 Dream big, design smart, deliver luxury — that's the vibe! 🛸
+🚀 Dream big, design smart, deliver luxury - that's the vibe! 🛸
 
 ---
 
