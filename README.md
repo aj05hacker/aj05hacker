@@ -1,8 +1,7 @@
-<!-- Typing Animated Banner -->
+<!-- Banner / GIF header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=80&lines=Vanakkam%2C+I'm+Abdul+Hajees+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Web+Dev+%7C+Prompt+Engineer+%F0%9F%9A%80;Crafting+luxury+websites+with+cinematic+touch+%F0%9F%8C%8C;Let's+build+something+amazing+%F0%9F%92%AF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Vanakkam%2C+I'm+Ajiii+%F0%9F%91%8B;Final+Year+IT+Student+%F0%9F%92%BB;Designer+%2B+Prompt+Engineer+%F0%9F%92%8E;Freelancer+%7C+Tech+Explorer+%F0%9F%9A%80" />
 </p>
-
 ---
 
 # 🧑‍💻 About Me
