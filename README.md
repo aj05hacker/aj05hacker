@@ -1,79 +1,68 @@
-<!-- Banner / GIF header -->
+<!-- Typing Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Vanakkam%2C+I'm+Ajiii+%F0%9F%91%8B;Final+Year+IT+Student+%F0%9F%92%BB;Designer+%2B+Prompt+Engineer+%F0%9F%92%8E;Freelancer+%7C+Tech+Explorer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=500&height=80&lines=Vanakkam%2C+I'm+Abdul+Hajees+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Web+Dev+%7C+Prompt+Engineer+%F0%9F%9A%80;Crafting+luxury+websites+with+cinematic+touch+%F0%9F%8C%8C;Let's+build+something+amazing+%F0%9F%92%AF" />
 </p>
 
 ---
 
-### 👋 Who Dis?
-
-Heya, I'm **Ajiii** a.k.a Abdul Hajees from Trichy 👣  
-Final year B.Tech IT 🖥️ | Freelancing when free 💸 | Learning while vibin’ ✌️  
-Loves building cool UIs 💻, playing with prompts 🧠, and designing fire flyers 🎨  
-
-> 💼 Looking for a chill but solid corporate job + some side-hustle magic 🔥
-
----
-
-### 🔧 Tech Stack & Tools
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# 🧑‍💻 About Me
+Heyo, I'm **Abdul Hajees** 👋  
+A final year IT student + freelance web designer from 🇮🇳 Trichy, Tamil Nadu.  
+I craft **cinematic, luxury-themed** websites with crazy smooth animations and clean designs ✨.  
+  
+🚀 Dream big, design smart, deliver luxury — that's the vibe! 🛸
 
 ---
 
-### ✨ Projects & Side Hustles
+# 🌍 Connect With Me
 
-🚀 [**AskIT AI**](https://github.com/yourusername/askit-ai) – Student info chatbot  
-🌐 [**Portfolio Site**](https://yourportfolio.vercel.app) – Personal brand, built in React  
-🤖 [**WhatsApp Bot**](https://github.com/yourusername/whatsapp-multi-bot) – Multi-device chat bot like Levanter  
-📊 [**Amazon vs Flipkart Price Checker**](https://github.com/yourusername/price-compare) – Scraper for best deals  
-
-> More 🔥 projects coming soon…
+- 🔥 **Portfolio:** [me.abdulhajees.in](https://me.abdulhajees.in)
+- 🔥 **My Freelance Brand:** [ahwebcrafts.abdulhajees.in](https://ahwebcrafts.abdulhajees.in)
+- 📚 **Blogs:** [blogs.abdulhajees.in](https://blogs.abdulhajees.in)
+- 🤖 **AI About Page:** [about.abdulhajees.in](https://about.abdulhajees.in)
 
 ---
 
-### 🧑‍🎨 Designs & Flyers
+# 🛠️ Tools I Play With
 
-Check out some of my designs on:
+<div align="center">
 
-- 🎨 [**Behance**](https://behance.net/yourhandle)  
-- 📸 [**Instagram**](https://instagram.com/yourdesignhandle)  
-- 📂 Fiverr Gigs: [Visit My Fiverr](https://fiverr.com/yourusername)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
-
-### 🔗 Let's Connect & Collab
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Fiverr](https://img.shields.io/badge/-Fiverr-darkgreen?style=flat&logo=fiverr)](https://fiverr.com/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+</div>
 
 ---
 
-### 📈 GitHub Stats (Flex Mode 😎)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=false" width="45%" />
-</p>
+# 💬 Skills I Bring To The Table
+
+- 🎨 UI/UX Design (Modern, Clean, Cinematic)
+- 🖥️ Frontend Web Development (HTML, CSS, JS, TailwindCSS)
+- ✍️ Prompt Engineering (AI + Automation Tricks)
+- 🚀 Landing Pages, Static Websites, Portfolio Sites
+- 📈 SEO Basics (On-Page SEO, Keyword Research, Indexing Support)
+- 🎯 Freelance Site Building & Branding
+- ⚡ Performance Optimization & Smooth Animations
 
 ---
 
-### 🔥 Random Quote Just for the Vibe
+# 📫 Let's Chat!
 
-> _"Success is a vibe. Stay consistent, stay chill."_ – Ajiii 🤙
-
----
-
-### 💬 DM Me for Collabs
-Wanna build something cool or need a quick design?  
-**DM me on WhatsApp or Insta. Let's vibe & work! 🔥**
+- 📧 Email: [me@abdulhajees.in](mailto:me@abdulhajees.in)
+- 💼 LinkedIn: [linkedin.com/in/abdulhajees](https://linkedin.com/in/abdulhajees)
+- 💻 GitHub: [github.com/aj05hacker](https://github.com/aj05hacker)
 
 ---
 
-> _Made with ❤️ from Trichy. Updated regularly ✨_
+# 🛸 Bonus Vibe
+
+> *"Turning your imagination into cinematic reality — one pixel at a time!"* 🎬✨  
+
+Thanks for vibing with me! 🚀  
+Let’s build something awesome together. 🔥
+
+---
