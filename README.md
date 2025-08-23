@@ -1,100 +1,123 @@
-<!-- Banner / GIF header -->
+<!-- Professional Banner -->
+<div align="center">
+  <img src="https://www.abdulhajees.in/Resources/og-image.png" alt="Abdul Hajees - B.Tech IT Graduate & Web Developer" width="100%"/>
+</div>
+
+<h1 align="center">👋 Hello, I'm Abdul Hajees</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=222222&center=true&vCenter=true&width=440&lines=Vanakkam%2C+I'm+Abdul+Hajees+%F0%9F%91%8B;B.Tech+graduate+%F0%9F%92%BB;Designer+%2B+Prompt+Engineer+%F0%9F%92%8E;Freelancer+%7C+Tech+Explorer+%F0%9F%9A%80" />
+  <strong>B.Tech IT Graduate | Web Developer | Freelancer</strong><br>
+  Crafting modern, responsive web solutions with clean code and user-focused design
 </p>
 
----
-
-# 🧑‍💻 About Me
-Hello, I'm **Abdul Hajees** 👋  
-A final year IT student + freelance web designer from 🇮🇳 Trichy, Tamil Nadu.  
-I craft **cinematic, luxury-themed** websites with crazy smooth animations and clean designs ✨.  
+<div align="center">
   
-🚀 Dream big, design smart, deliver luxury - that's the vibe! 🛸
-
----
-
-# 🌍 Connect With Me
-
-- 🔥 **Portfolio:** [me.abdulhajees.in](https://me.abdulhajees.in)
-- 🔥 **My Freelance Brand:** [AH Web Crafts ](https://ahwebcrafts.abdulhajees.in)
-- 📚 **Blogs:** [blogs.abdulhajees.in](https://blogs.abdulhajees.in)
-- 🤖 **AI About Page:** [about.abdulhajees.in](https://about.abdulhajees.in)
-
----
-
-# 🛠️ Tools I Play With
-
-<div align="center">
-
-<div align="center">
-
-<!-- Core Web Tech -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FormSubmit-00BFA6?style=for-the-badge&logo=maildotru&logoColor=white"/>
-
-<!-- Programming & Backend -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-
-<!-- SEO & Search Console -->
-<img src="https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Google%20Analytics-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bing%20Webmaster-008373?style=for-the-badge&logo=bing&logoColor=white"/>
-
-<!-- OS & Terminal Stuff -->
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/-ZSH-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-<!-- AI & LLM Tools -->
-<img src="https://img.shields.io/badge/-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Prompt%20Engineering-5E17EB?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Gemini-8B3DFF?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Claude-121212?style=for-the-badge&logo=anthropic&logoColor=white"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://me.abdulhajees.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulhajees)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@abdulhajees.in)
+[![Freelance Brand](https://img.shields.io/badge/AH_Web_Crafts-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://ahwebcrafts.abdulhajees.in)
 
 </div>
 
+## 🎯 About Me
 
+I'm a recent **B.Tech IT graduate** from M.A.M College of Engineering and Technology with a passion for creating **modern, responsive web applications**. As a freelance web developer specializing in **luxury-themed designs** and **smooth animations**, I focus on delivering clean, maintainable code and exceptional user experiences.
+
+**Currently seeking opportunities** in frontend development, full-stack development, or web design roles where I can contribute my technical skills and creative problem-solving abilities.
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Design & Development Tools
+![Figma](https://img.shields.io/badge/Figma-FF7262?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Backend & Other Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+### SEO & Analytics
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=flat-square&logo=google&logoColor=white)
+
+## 💼 Professional Experience
+
+**Freelance Web Developer** | *2023 - Present*
+- Developed and deployed **10+ responsive websites** for small businesses and individuals
+- Specialized in **luxury-themed designs** with advanced CSS animations and modern UI patterns
+- Implemented **SEO best practices** resulting in improved search rankings for client websites
+- Managed full project lifecycle from client consultation to deployment and maintenance
+
+**Key Achievements:**
+- Built **AH Web Crafts** brand serving multiple clients across different industries
+- Optimized website performance achieving **95+ PageSpeed scores**
+- Successfully integrated third-party APIs and services for enhanced functionality
+
+## 🚀 Featured Projects
+
+### [Portfolio Website](https://me.abdulhajees.in)
+**Modern portfolio showcasing web development projects**
+- **Tech Stack:** HTML5, CSS3, JavaScript, TailwindCSS
+- **Features:** Responsive design, smooth animations, optimized performance
+- **Highlights:** Custom animations, modern UI design, mobile-first approach
+
+### [AH Web Crafts](https://ahwebcrafts.abdulhajees.in)
+**Freelance business website with service showcase**
+- **Tech Stack:** HTML5, CSS3, JavaScript, TailwindCSS
+- **Features:** Service portfolio, client testimonials, contact forms
+- **Highlights:** Business-focused design, conversion optimization
+
+### [Project Gallery](https://gallery.abdulhajees.in)
+**Curated showcase of web development projects**
+- **Tech Stack:** HTML5, CSS3, JavaScript
+- **Features:** Interactive gallery, project filtering, responsive layout
+- **Highlights:** Visual storytelling, clean architecture
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aj05hacker&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj05hacker&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</div>
 
-# 💬 Skills I Bring To The Table
+## 🎓 Education
 
-- 🎨 UI/UX Design (Modern, Clean, Cinematic)
-- 🖥️ Frontend Web Development (HTML, CSS, JS, TailwindCSS)
-- ✍️ Prompt Engineering (AI + Automation Tricks)
-- 🚀 Landing Pages, Static Websites, Portfolio Sites
-- 📈 SEO Basics (On-Page SEO, Keyword Research, Indexing Support)
-- 🎯 Freelance Site Building & Branding
-- ⚡ Performance Optimization & Smooth Animations
+**Bachelor of Technology in Information Technology**  
+*M.A.M College of Engineering and Technology* | *2025*  
+- Relevant Coursework: Web Technologies, Database Management, Software Engineering, Data Structures
 
----
+## 📈 What I'm Currently Working On
 
-# 📫 Let's Chat!
+- 🔭 Building advanced web applications with modern JavaScript frameworks
+- 🌱 Learning cloud deployment and DevOps practices
+- 👯 Open to collaborating on innovative web projects
+- 💡 Exploring AI integration in web development workflows
 
-- 📧 Email: [me@abdulhajees.in](mailto:me@abdulhajees.in)
-- 💼 LinkedIn: [linkedin.com/in/abdulhajees](https://linkedin.com/in/abdulhajees)
-- 💻 GitHub: [github.com/aj05hacker](https://github.com/aj05hacker)
+## 📫 Let's Connect
 
----
+I'm actively seeking opportunities in **frontend development**, **full-stack development**, or **web design** roles. I'm particularly interested in positions where I can contribute to user-focused applications and work with modern web technologies.
 
-# 🛸 Bonus Vibe
-
-> *"Turning your imagination into cinematic reality — one pixel at a time!"* 🎬✨  
-
-Thanks for vibing with me! 🚀  
-Let’s build something awesome together. 🔥
+**Available for:**
+- Full-time opportunities
+- Contract/Freelance projects
+- Technical discussions and collaborations
+- Open source contributions
 
 ---
+
+<div align="center">
+  <i>⚡ "Turning ideas into exceptional digital experiences, one line of code at a time"</i>
+</div>
