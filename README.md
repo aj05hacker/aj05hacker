@@ -2,70 +2,98 @@
   <img src="https://www.abdulhajees.in/Resources/og-image.png" alt="Ajii | Developer | AI Automation" width="100%" />
 </p>
 
-<!-- Banner / GIF header -->
+<h1 align="center">Vanakkam, I'm Abdul Hajees 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=222222&center=true&vCenter=true&width=440&lines=Vanakkam%2C+I'm+Abdul+Hajees+👋;B.Tech+graduate+💻;Designer+%2B+Prompt+Engineer+💎;Freelancer+%7C+Tech+Explorer+🚀" />
+  <b>Web Developer | Prompt Engineer | UI/UX Designer | Python Programmer</b> <br/>
+  <i>Final year B.Tech IT | From Trichy (TN) | Designs luxury, cinematic websites & smooth digital vibes</i>
+</p>
+
+<p align="center">
+  <a href="https://me.abdulhajees.in">Portfolio 🛸</a> |
+  <a href="https://about.abdulhajees.in">About Me 🤖</a> |
+  <a href="https://ahwebcrafts.abdulhajees.in">Freelance Brand 🔥</a> |
+  <a href="https://blogs.abdulhajees.in">Blogs 📚</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=10A37F&center=true&vCenter=true&width=550&lines=B.Tech+Final+Year+IT+Student;Web+%2B+UI%2FUX+Designer;Prompt+Engineer+and+AI+Geek;Cloud%2C+Automation%2C+SEO+Obsessed;GTA+V+Pro+%7C+Always+Online" />
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-Hello, I'm **Abdul Hajees** 👋
-  
-A final year IT student + freelance web designer from 🇮🇳 Trichy, Tamil Nadu.
-  
-I craft **cinematic, luxury-themed** websites with crazy smooth animations and clean designs ✨.  
-  
-🚀 Dream big, design smart, deliver luxury - that's the vibe! 🛸
+Passionate about **UI/UX Design, web dev, and AI tools**. Skilled in turning ideas into luxury-themed, interactive sites. Always leveling up — if it involves *automation, APIs,* or new tech, count me in!  
+*"Dream big, design smart, deliver luxury — that's the Tamil dev vibe, bro!"* 🛸
 
 ---
 
-# 🌍 Connect With Me
+## 🚀 Featured Projects
 
-- 🔥 **Portfolio:** [me.abdulhajees.in](https://me.abdulhajees.in)
-- 🔥 **My Freelance Brand:** [AH Web Crafts ](https://ahwebcrafts.abdulhajees.in)
-- 📚 **Blogs:** [blogs.abdulhajees.in](https://blogs.abdulhajees.in)
-- 🤖 **AI About Page:** [about.abdulhajees.in](https://about.abdulhajees.in)
+- 🔥 [Pludo](https://github.com/aj05hacker/pludo): Cross-platform job and career portal powered by AI for freshers and pros.
+- ⚡ [AH Chat Bot](https://ai.abdulhajees.in): Conversational AI built with Gemini, for rapid, realistic replies.
+- 🌐 [Search Hub](https://search.abdulhajees.in): All-in-one search tool (Shodan, GHDB, Web), built for cyber exploration.
+- 📦 [My Portfolio](https://me.abdulhajees.in): Full-stack showcase of my skills, internships, and killer UI feats.
 
 ---
 
-# 🛠️ Tools I Play With
+## 🛠️ Skills & Tools
 
-<div align="center">
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-AI%20Automation-10a37f?style=for-the-badge&logo=openai"/>
+</p>
 
-<!-- Core Web Tech -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+---
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/-Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FormSubmit-00BFA6?style=for-the-badge&logo=maildotru&logoColor=white"/>
+## 📈 GitHub Stats
 
-<!-- Programming & Backend -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aj05hacker&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj05hacker&theme=radical" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aj05hacker&theme=radical&no-frame=true&column=3" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=aj05hacker&color=blueviolet"/>
+</p>
 
-<!-- SEO & Search Console -->
-<img src="https://img.shields.io/badge/-Google%20Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Google%20Analytics-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bing%20Webmaster-008373?style=for-the-badge&logo=bing&logoColor=white"/>
+---
 
-<!-- OS & Terminal Stuff -->
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/-ZSH-89e051?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+## 💼 Internship Experience
 
-<!-- AI & LLM Tools -->
-<img src="https://img.shields.io/badge/-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Prompt%20Engineering-5E17EB?style=for-the-badge&logo=fastapi&logoColor=white"/>
+- **Web Developer**: HTML, CSS, JS, Bootstrap magic for real-world projects (2021, 2023, 2024)
+- **Frontend Dev**: Full UI builds, accessibility focused designs, team collaboration with Git/GitHub (2023-24)
 
-</div>
-</div>
+---
+
+## 🌱 Certificates
+
+[🎓 Check out my certi wall](https://abdulhajees.in/certificates.html)
+
+---
+
+## 🌍 Socials / Connect
+
+<p align="center">
+  <a href="https://me.abdulhajees.in"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abdulhajees"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/abdul_hajees"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:aj05hacker@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+When I'm not coding or grinding on AI, I'm probably chilling with GTA V, sending memes, or leveling up some digital side-quest.  
+> "Bro, code only, sleep never 😎."
+
+---
+
+<!-- ping me if you want the code changed, da! -->
