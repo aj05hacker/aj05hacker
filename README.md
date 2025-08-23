@@ -1,13 +1,20 @@
+<p align="center">
+  <img src="https://www.abdulhajees.in/Resources/og-image.png" alt="Ajii | Developer | AI Automation" width="100%" />
+</p>
+
 <!-- Banner / GIF header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=222222&center=true&vCenter=true&width=440&lines=Vanakkam%2C+I'm+Abdul+Hajees+%F0%9F%91%8B;B.Tech+graduate+%F0%9F%92%BB;Designer+%2B+Prompt+Engineer+%F0%9F%92%8E;Freelancer+%7C+Tech+Explorer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=222222&center=true&vCenter=true&width=440&lines=Vanakkam%2C+I'm+Abdul+Hajees+👋;B.Tech+graduate+💻;Designer+%2B+Prompt+Engineer+💎;Freelancer+%7C+Tech+Explorer+🚀" />
 </p>
 
 ---
 
 # 🧑‍💻 About Me
-Hello, I'm **Abdul Hajees** 👋  
-A final year IT student + freelance web designer from 🇮🇳 Trichy, Tamil Nadu.  
+
+Hello, I'm **Abdul Hajees** 👋
+  
+A final year IT student + freelance web designer from 🇮🇳 Trichy, Tamil Nadu.
+  
 I craft **cinematic, luxury-themed** websites with crazy smooth animations and clean designs ✨.  
   
 🚀 Dream big, design smart, deliver luxury - that's the vibe! 🛸
@@ -26,7 +33,6 @@ I craft **cinematic, luxury-themed** websites with crazy smooth animations and c
 # 🛠️ Tools I Play With
 
 <div align="center">
-
 <div align="center">
 
 <!-- Core Web Tech -->
@@ -60,41 +66,6 @@ I craft **cinematic, luxury-themed** websites with crazy smooth animations and c
 <!-- AI & LLM Tools -->
 <img src="https://img.shields.io/badge/-ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Prompt%20Engineering-5E17EB?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Gemini-8B3DFF?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Claude-121212?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 </div>
-
-
 </div>
-
----
-
-# 💬 Skills I Bring To The Table
-
-- 🎨 UI/UX Design (Modern, Clean, Cinematic)
-- 🖥️ Frontend Web Development (HTML, CSS, JS, TailwindCSS)
-- ✍️ Prompt Engineering (AI + Automation Tricks)
-- 🚀 Landing Pages, Static Websites, Portfolio Sites
-- 📈 SEO Basics (On-Page SEO, Keyword Research, Indexing Support)
-- 🎯 Freelance Site Building & Branding
-- ⚡ Performance Optimization & Smooth Animations
-
----
-
-# 📫 Let's Chat!
-
-- 📧 Email: [me@abdulhajees.in](mailto:me@abdulhajees.in)
-- 💼 LinkedIn: [linkedin.com/in/abdulhajees](https://linkedin.com/in/abdulhajees)
-- 💻 GitHub: [github.com/aj05hacker](https://github.com/aj05hacker)
-
----
-
-# 🛸 Bonus Vibe
-
-> *"Turning your imagination into cinematic reality — one pixel at a time!"* 🎬✨  
-
-Thanks for vibing with me! 🚀  
-Let’s build something awesome together. 🔥
-
----
