@@ -1,6 +1,6 @@
 <!-- Professional Banner -->
 <div align="center">
-  <img src="https://www.abdulhajees.in/Resources/og-image.png" alt="Abdul Hajees - B.Tech IT Graduate & Web Developer" width="100%"/>
+  <img src="https://abdulhajees.in/og_image.png" alt="Abdul Hajees - B.Tech IT Graduate & Web Developer" width="100%"/>
 </div>
 
 <h1 align="center">👋 Hello, I'm Abdul Hajees</h1>
