@@ -1,176 +1,149 @@
-<!-- README.md: Single-file portfolio-style profile for aj05hacker -->
+<!-- README.md — portfolio-style animated profile for aj05hacker -->
 
-<!-- Animated SVG hero (pure SVG + CSS animations — supported in GitHub README) -->
 <div align="center">
-  <!-- Inline SVG Hero -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="320" viewBox="0 0 1200 320" preserveAspectRatio="xMidYMid slice">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-        <stop offset="0%" stop-color="#0ea5a3"/>
-        <stop offset="50%" stop-color="#7c3aed"/>
-        <stop offset="100%" stop-color="#ef4444"/>
-      </linearGradient>
-      <filter id="f1" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="20" result="b"/>
-        <feBlend in="SourceGraphic" in2="b"/>
-      </filter>
-      <clipPath id="card-clip">
-        <rect x="20" y="30" rx="18" ry="18" width="1160" height="260"/>
-      </clipPath>
-    </defs>
 
-    <style>
-      .bg { fill: url(#g1); opacity: 0.12; }
-      .card { fill: white; stroke: rgba(0,0,0,0.04); filter: url(#f1); }
-      .title { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-weight:700; font-size:42px; fill: #0f172a; }
-      .subtitle { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; font-size:18px; fill:#475569; }
-      .accent { fill: url(#g1); }
-      .dot { fill:#ffffff; opacity:0.12; }
-      .pulse { transform-origin: 50% 50%; animation: pulse 5s linear infinite; }
-      .float { animation: float 8s ease-in-out infinite; }
-      @keyframes pulse {
-        0% { opacity: 0.10; transform: scale(1); }
-        50% { opacity: 0.25; transform: scale(1.08); }
-        100% { opacity: 0.10; transform: scale(1); }
-      }
-      @keyframes float {
-        0% { transform: translateY(0px); }
-        50% { transform: translateY(-8px); }
-        100% { transform: translateY(0px); }
-      }
-      .small { font-size:12px; fill:#64748b; }
-      a { text-decoration: none; }
-    </style>
+<!-- Hero image (your uploaded PNG) -->
+<img src="/mnt/data/5d44005e-ff3d-4763-b44a-0318c8c5ef66.png" alt="Abdul Hajees - Hero" width="100%" style="border-radius:12px;box-shadow:0 10px 30px rgba(12,18,26,0.12)"/>
 
-    <!-- background decorative blobs -->
-    <rect class="bg" x="-200" y="-120" width="650" height="650" rx="180" transform="rotate(15 200 200)"/>
-    <rect class="bg" x="700" y="-140" width="650" height="650" rx="180" transform="rotate(-12 1000 200)"/>
-
-    <!-- main card -->
-    <g clip-path="url(#card-clip)">
-      <rect class="card" x="20" y="30" width="1160" height="260" rx="18"/>
-
-      <!-- decorative particles -->
-      <g opacity="0.9">
-        <circle class="dot float" cx="70" cy="70" r="22" />
-        <circle class="dot" cx="300" cy="100" r="8" />
-        <circle class="dot float" cx="520" cy="60" r="14" />
-        <circle class="dot" cx="980" cy="90" r="10" />
-        <circle class="dot float" cx="1050" cy="200" r="24" />
-      </g>
-
-      <!-- text -->
-      <text x="60" y="120" class="title">Abdul Hajees</text>
-      <text x="60" y="160" class="subtitle">B.Tech (IT) · Web Developer · Freelancer · Founder of Pludo AI</text>
-
-      <!-- badges -->
-      <g transform="translate(60,175)">
-        <rect x="0" y="0" rx="8" ry="8" width="170" height="36" fill="#0f172a" opacity="0.04"/>
-        <text x="18" y="24" class="small">Frontend · React · Tailwind</text>
-        <rect x="190" y="0" rx="8" ry="8" width="150" height="36" fill="#0f172a" opacity="0.04"/>
-        <text x="208" y="24" class="small">Design · Figma</text>
-        <rect x="360" y="0" rx="8" ry="8" width="170" height="36" fill="#0f172a" opacity="0.04"/>
-        <text x="378" y="24" class="small">SEO · Performance</text>
-      </g>
-
-      <!-- call to action link shapes (visual only) -->
-      <g transform="translate(780,120)">
-        <rect x="0" y="0" rx="10" ry="10" width="320" height="58" class="accent" opacity="0.16"/>
-        <text x="24" y="36" class="subtitle">Visit portfolio → me.abdulhajees.in</text>
-      </g>
-    </g>
-
-    <!-- footer small text -->
-    <text x="40" y="308" class="small">Portfolio · Web Development · UI/UX · AH Web Crafts</text>
-  </svg>
 </div>
 
----
-
-# 👋 Hello — I'm **Abdul Hajees**
-**B.Tech (IT)** • Web Developer • Freelancer • Founder of Pludo AI
-
-Modern, responsive web experiences with a luxury aesthetic and practical, maintainable code.
+# 👋 Hi — I'm **Abdul Hajees**
+**B.Tech (IT)** · Web Developer · Freelancer · Founder of Pludo AI  
+Crafting modern, responsive web experiences with luxury aesthetics and practical code.
 
 [Portfolio](https://me.abdulhajees.in) • [LinkedIn](https://linkedin.com/in/abdulhajees) • [Email](mailto:me@abdulhajees.in) • [AH Web Crafts](https://ahwebcrafts.abdulhajees.in)
 
 ---
 
-## 🎯 Quick Summary
-I build polished, performance-first websites and frontend products. I focus on modern UI patterns, accessible markup, and fast, SEO-friendly experiences. Currently: building **Pludo AI**, a no-code AI agent builder and Pludo Coder (natural-language → React UI generator).
-
-**Brand brief (local copy):** /mnt/data/pludo-ai-brand-description-updated.pdf
-
----
-
-## 🛠 Tech Stack (visual)
-<!-- Animated SVG skill bars -->
+<!-- Inline animated SVG hero-card (pure SVG + CSS; GitHub preserves SVG/CSS in READMEs) -->
 <div align="center">
-  <svg width="780" height="180" viewBox="0 0 780 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill bars">
-    <style>
-      .bar-bg { fill:#e6eef6; rx:10; ry:10; }
-      .bar { rx:10; ry:10; }
-      .label { font-family: Inter, system-ui, -apple-system, Roboto, Arial; font-size:14px; fill:#0f172a; }
-      .sub { font-size:12px; fill:#475569; }
-      .a { fill:#0ea5a3; animation:growA 1.6s ease-out forwards; width:0; }
-      .b { fill:#7c3aed; animation:growB 1.6s 0.15s ease-out forwards; width:0; }
-      .c { fill:#ef4444; animation:growC 1.6s 0.3s ease-out forwards; width:0; }
-      @keyframes growA { from { width:0 } to { width:520px } }
-      @keyframes growB { from { width:0 } to { width:600px } }
-      @keyframes growC { from { width:0 } to { width:430px } }
-    </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="320" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Hero">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="14" result="b"/>
+      <feBlend in="SourceGraphic" in2="b"/>
+    </filter>
+  </defs>
+  <style>
+    .bg { fill: url(#grad); opacity:0.12; }
+    .card { fill:#fff; stroke:rgba(2,6,23,0.04); rx:18; ry:18; filter:url(#blur); }
+    .title { font-family: Inter, system-ui, Roboto, Arial; font-weight:700; font-size:42px; fill:#0f172a; }
+    .subtitle { font-family: Inter, system-ui, Roboto, Arial; font-size:16px; fill:#475569; }
+    .dot { fill:#fff; opacity:0.12; }
+    .float { animation:float 6s ease-in-out infinite; transform-origin:center; }
+    .pulse { animation:pulse 4.5s ease-in-out infinite; transform-origin:center; }
+    @keyframes float { 0%{transform:translateY(0)}50%{transform:translateY(-8px)}100%{transform:translateY(0)} }
+    @keyframes pulse { 0%{opacity:0.08;transform:scale(1)}50%{opacity:0.24;transform:scale(1.06)}100%{opacity:0.08;transform:scale(1)} }
+    .cta { font-family: Inter, system-ui, Roboto, Arial; font-size:15px; fill:#064e3b; font-weight:600; }
+    .small { font-family: Inter, system-ui, Roboto, Arial; font-size:12px; fill:#64748b; }
+  </style>
 
-    <!-- HTML-like rows -->
-    <g transform="translate(20,10)">
-      <text class="label" x="0" y="16">Frontend (React / Tailwind)</text>
-      <rect class="bar-bg" x="0" y="22" width="740" height="18" rx="9" />
-      <rect class="bar a" x="0" y="22" width="0" height="18" rx="9" />
-      <text class="sub" x="752" y="36">87%</text>
+  <rect class="bg" x="-200" y="-120" width="650" height="650" rx="200" transform="rotate(18)"/>
+  <rect class="bg" x="700" y="-120" width="650" height="650" rx="200" transform="rotate(-12)"/>
+
+  <g transform="translate(20,30)">
+    <rect class="card" width="1160" height="260" rx="18" ry="18"/>
+    <g>
+      <circle class="dot float" cx="60" cy="60" r="22"/>
+      <circle class="dot" cx="260" cy="90" r="8"/>
+      <circle class="dot pulse" cx="520" cy="60" r="14"/>
+      <circle class="dot" cx="980" cy="90" r="10"/>
+      <circle class="dot float" cx="1050" cy="200" r="24"/>
     </g>
 
-    <g transform="translate(20,60)">
-      <text class="label" x="0" y="16">Design (Figma / UI)</text>
-      <rect class="bar-bg" x="0" y="22" width="740" height="18" rx="9" />
-      <rect class="bar b" x="0" y="22" width="0" height="18" rx="9" />
-      <text class="sub" x="752" y="36">90%</text>
+    <text x="56" y="110" class="title">Abdul Hajees</text>
+    <text x="56" y="148" class="subtitle">B.Tech (IT) · Web Developer · Freelancer · Founder of Pludo AI</text>
+
+    <g transform="translate(56,170)">
+      <rect x="0" y="0" width="170" height="36" rx="8" fill="rgba(2,6,23,0.03)"/>
+      <text x="18" y="24" class="small">Frontend · React · Tailwind</text>
+      <rect x="190" y="0" width="160" height="36" rx="8" fill="rgba(2,6,23,0.03)"/>
+      <text x="208" y="24" class="small">Design · Figma</text>
+      <rect x="370" y="0" width="170" height="36" rx="8" fill="rgba(2,6,23,0.03)"/>
+      <text x="388" y="24" class="small">SEO · Performance</text>
     </g>
 
-    <g transform="translate(20,110)">
-      <text class="label" x="0" y="16">Performance / SEO</text>
-      <rect class="bar-bg" x="0" y="22" width="740" height="18" rx="9" />
-      <rect class="bar c" x="0" y="22" width="0" height="18" rx="9" />
-      <text class="sub" x="752" y="36">71%</text>
+    <g transform="translate(780,120)">
+      <rect x="0" y="0" width="320" height="58" rx="12" fill="url(#grad)" opacity="0.14"/>
+      <text x="24" y="36" class="cta">Visit portfolio → me.abdulhajees.in</text>
     </g>
-  </svg>
+  </g>
+
+  <text x="40" y="310" class="small">Portfolio · Web Development · UI/UX · AH Web Crafts</text>
+</svg>
 </div>
 
 ---
 
-## 💼 Experience & Achievements
+## 🎯 Summary
+I design and build modern, responsive sites focused on performance, accessibility, and clean UX. Currently building **Pludo AI** — a no-code agent & frontend generator.
+
+---
+
+<!-- Animated SVG skill bars -->
+<div align="center">
+<svg viewBox="0 0 780 180" width="780" height="180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skills">
+  <style>
+    .label { font-family: Inter, system-ui, Roboto, Arial; font-size:14px; fill:#0f172a; }
+    .sub { font-size:12px; fill:#475569; font-family: Inter, system-ui, Roboto, Arial; }
+    .bg { fill:#eef6fb; rx:10; ry:10; }
+    .p1 { fill:#06b6d4; rx:10; ry:10; width:0; animation:grow1 1.6s forwards; }
+    .p2 { fill:#8b5cf6; rx:10; ry:10; width:0; animation:grow2 1.6s 0.12s forwards; }
+    .p3 { fill:#ef4444; rx:10; ry:10; width:0; animation:grow3 1.6s 0.24s forwards; }
+    @keyframes grow1 { from { width:0 } to { width:520px } }
+    @keyframes grow2 { from { width:0 } to { width:600px } }
+    @keyframes grow3 { from { width:0 } to { width:430px } }
+  </style>
+
+  <g transform="translate(20,10)">
+    <text class="label" x="0" y="16">Frontend (React · Tailwind)</text>
+    <rect class="bg" x="0" y="22" width="740" height="18" rx="9"/>
+    <rect class="p1" x="0" y="22" height="18" width="520"/>
+    <text class="sub" x="752" y="36">87%</text>
+  </g>
+
+  <g transform="translate(20,60)">
+    <text class="label" x="0" y="16">Design (Figma · UI)</text>
+    <rect class="bg" x="0" y="22" width="740" height="18" rx="9"/>
+    <rect class="p2" x="0" y="22" height="18" width="600"/>
+    <text class="sub" x="752" y="36">90%</text>
+  </g>
+
+  <g transform="translate(20,110)">
+    <text class="label" x="0" y="16">Performance / SEO</text>
+    <rect class="bg" x="0" y="22" width="740" height="18" rx="9"/>
+    <rect class="p3" x="0" y="22" height="18" width="430"/>
+    <text class="sub" x="752" y="36">71%</text>
+  </g>
+</svg>
+</div>
+
+---
+
+## 💼 Experience
 **Freelance Web Developer** · 2023 – Present  
-- Delivered 10+ responsive websites for local businesses.  
-- Specialty: premium, luxury-themed UI and smooth CSS animations.  
-- SEO and performance optimizations (PageSpeed results often 90+ after tuning).
+- Built and launched 10+ responsive sites.  
+- Luxury-themed UI, smooth CSS animations, and SEO-first approaches.  
+- Full project lifecycle: discovery → design → build → deploy.
 
 **Founder — Pludo AI**  
-- Building a no-code SaaS for creating deployable AI agents and frontend prototypes.  
-- See brand brief (local): /mnt/data/pludo-ai-brand-description-updated.pdf
+- No-code AI agent builder and frontend generator (Pludo Coder).
 
 ---
 
 ## 🚀 Featured Projects
 - **Portfolio** — https://me.abdulhajees.in  
-  Mobile-first portfolio with custom animations and a performance-first approach.
-
 - **AH Web Crafts** — https://ahwebcrafts.abdulhajees.in  
-  Business site focused on conversion and visual storytelling.
-
-- **Project Gallery** — https://gallery.abdulhajees.in  
-  Interactive project gallery with filtering and responsive layouts.
+- **Project Gallery** — https://gallery.abdulhajees.in
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aj05hacker&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj05hacker&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
@@ -185,17 +158,7 @@ M.A.M College of Engineering and Technology · 2025
 ---
 
 ## 📫 Contact
-- Website: https://me.abdulhajees.in  
-- LinkedIn: https://linkedin.com/in/abdulhajees  
-- Email: me@abdulhajees.in
-
----
-
-## 📎 Notes & Implementation tips
-- This file uses inline SVG blocks for hero and skill visuals. GitHub supports inline SVG in READMEs; it strips scripts but preserves SVG/CSS animations.  
-- If any SVG doesn’t render on your profile, move the SVG into the repo (e.g., `assets/hero.svg`) and reference it with `![hero](assets/hero.svg)` or `<img src="assets/hero.svg">`.  
-- If you change GitHub username, update `aj05hacker` in the GitHub Stats image URLs.  
-- Local brand brief path included above: `/mnt/data/pludo-ai-brand-description-updated.pdf` (your local copy where you store the brief).
+Website: https://me.abdulhajees.in • LinkedIn: https://linkedin.com/in/abdulhajees • Email: me@abdulhajees.in
 
 ---
 
